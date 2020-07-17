@@ -40,28 +40,28 @@ const slides = [
     subtitle: "Find your Outfits",
     description: "BLEH BLEH BLEH",
     color: "#BFEAFC",
-    picture: require("../../../assets/21.png"),
+    picture: require("../../../assets/1.png"),
   },
   {
     title: "Playful",
     subtitle: "Hear it First, Wear it firsts",
     description: "BLEH BLEH BLEH",
     color: "#BEECC4",
-    picture: require("../../../assets/23.png"),
+    picture: require("../../../assets/2.png"),
   },
   {
     title: "Excentric",
     subtitle: "Your Style, Your Way",
     description: "BLEH BLEH BLEH",
     color: "#FFE4D9",
-    picture: require("../../../assets/19.png"),
+    picture: require("../../../assets/3.png"),
   },
   {
     title: "Funky",
     subtitle: "Look Good, Feel Good",
     description: "BLEH BLEH BLEH",
     color: "#FFDDDD",
-    picture: require("../../../assets/10.png"),
+    picture: require("../../../assets/4.png"),
   },
 ];
 
